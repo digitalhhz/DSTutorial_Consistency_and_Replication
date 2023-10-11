@@ -1,4 +1,4 @@
-# DSTutorial_Consistency_and_Replication
+# DSTutorial: Consistency and Replication
 
 Tutorial über "Consistency and Replication" für das DBE Modul "Distributed Systems" 
 
