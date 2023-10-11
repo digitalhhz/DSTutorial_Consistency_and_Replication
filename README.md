@@ -4,7 +4,7 @@ Tutorial über "Consistency and Replication" für das DBE Modul "Distributed Sys
 
 In diesem Repository sind folgende Unterlagen zum Thema "Consistency and Replication" vorhanden:
 
-1. Video Tutorial
+1. Link auf [Video Tutorial](https://youtu.be/ztGi0DfBcd8)
 2. Slides zum Video
 3. Handout
 
